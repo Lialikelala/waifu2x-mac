@@ -1,7 +1,7 @@
 #  Waifu2x-mac
 ![CI](https://github.com/imxieyi/waifu2x-mac/workflows/CI/badge.svg)
 
-This fork adds a batch-processing feature to the command-line interface (CLI) usage. See the added **batch_convert_waifu2x.py** file. Please scroll down to the "LIA'S FORK SPECIFIC INSTRUCTIONS" for more information. Further updates to come.
+This fork adds a batch-processing feature to the command-line interface (CLI) usage. See the added **batch_convert_waifu2x.py** file. Please scroll down to the "LIA'S FORK SPECIFIC INSTRUCTIONS" for more information. Feel free to add to Issues with any requests, I'll try my best to fulfill them.
 
 
 
