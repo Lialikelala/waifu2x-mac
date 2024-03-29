@@ -1,6 +1,8 @@
 #  Waifu2x-mac
 ![CI](https://github.com/imxieyi/waifu2x-mac/workflows/CI/badge.svg)
 
+This fork adds a batch-processing feature to the command-line interface (CLI) usage. See the added **batch_convert_waifu2x.py** file. Further updates to come.
+
 Waifu2x port to macOS, also in Core ML and Metal. For other details please refer to [waifu2x-ios](https://github.com/imxieyi/waifu2x-ios).
 
 ## Project Status
