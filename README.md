@@ -110,7 +110,7 @@ __________________
 Run the script from a terminal or command prompt. Here's the basic syntax:
     `python3 /path/to/batch_convert_waifu2x.py [source_directory] [options]`
 Or, if you created a symlink:
-    w2x [source_directory] [options]
+    `w2x [source_directory] [options]`
 
 ### Options
 [source_directory]: The path to the directory containing the images you want to process.
@@ -129,7 +129,7 @@ Upscale and denoise images in /path/to/images and save them to /path/to/processe
 
    `python3 batch_convert_waifu2x.py /path/to/images /path/to/processed_images --scale 2 --noise 2`
 
-^The above assumes you are in the same directory as batch_convert_waifu2x.py. If you're not, either reference the symlink (w2x) or put the entire file path where batch_convert_waifu2x.py is.
+^The above assumes you are in the same directory as batch_convert_waifu2x.py. If you're not, either reference the symlink (w2x) or put the entire file path for `batch_convert_waifu2x.py`.
 
 Remember to replace /path/to/batch_convert_waifu2x.py and /path/to/images (etc) with the actual paths on your system.
 
@@ -141,7 +141,7 @@ Upscale and denoise all .jpg and .png images in the source_images directory, sav
 
 Or just:
 
-    `w2x /path/to/quick_process`
+    `w2x /path/to/processed_images`
 
 ^For a quick run with the default settings, just specify the source directory. This is the simplest way to use the script.
 
