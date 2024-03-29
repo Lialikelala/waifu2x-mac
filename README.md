@@ -114,9 +114,13 @@ Or, if you created a symlink:
 
 ### Options
 [source_directory]: The path to the directory containing the images you want to process.
+
 [destination_directory] (Optional): Specify where you want to save the processed images. If not specified, the script will create a new directory adjacent to the source directory, appending -waifu-ed to its name.
+
 --type [a|p]: Specify the image type (a for anime, p for photo). Default is a.
+
 --scale [1|2]: Scale factor (1 for no scaling, 2 for doubling the size). Default is 1.
+
 --noise [0-4]: Denoise level (0 for none, up to 4 for maximum denoising). Default is 1.
 
 ## Example 1
