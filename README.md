@@ -110,7 +110,7 @@ __________________
 Run the script from a terminal or command prompt. Here's the basic syntax:
     `python3 /path/to/batch_convert_waifu2x.py [source_directory] [options]`
 Or, if you created a symlink:
-    `w2x [source_directory] [options]`
+    w2x [source_directory] [options]
 
 ### Options
 [source_directory]: The path to the directory containing the images you want to process.
@@ -157,6 +157,7 @@ To maximize processing speed, specify the maximum number of worker threads. This
 
     `w2x /path/to/large_collection /path/to/output --max_workers 8`
 
+Make sure to remove the extra ` notations at the beginning and end of each command.
 
 
 
